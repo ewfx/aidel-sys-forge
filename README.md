@@ -65,5 +65,8 @@ Describe the major technical or non-technical challenges your team encountered.
 
 ## 👥 Team
 
-- R, Hrisheekesh - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- hrishee31@gmail.com
+- shalvinpshaji.official@gmail.com
+- chiragmakhija491@gmail.com
+- pravalikanarala1504@gmail.com
+- ajesima02@gmail.com
